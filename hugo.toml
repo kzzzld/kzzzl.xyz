@@ -1,0 +1,4 @@
+baseURL = 'https://kzzzl.xyz'
+theme = "macchiato"
+locale = 'en-us'
+title = 'kzzzl'

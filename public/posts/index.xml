@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on kzzzl</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on kzzzl</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 17 Oct 2026 20:19:22 +0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Opinion About Omarchy</title>
+				<link>http://localhost:1313/posts/my-opinion-about-omarchy/</link>
+				<pubDate>Sat, 17 Oct 2026 20:19:22 +0300</pubDate>
+				<guid>http://localhost:1313/posts/my-opinion-about-omarchy/</guid>
+				<description>&lt;p&gt;Omarchy is a AI-centric Linux distro made by DHH using Arch Linux. It uses software like Hyprland, Quickshell, Foot etc. It&amp;rsquo;s popular because it helps people use Hyprland easily without configuring it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-think-about-omarchy&#34;&gt;What I think about Omarchy?&lt;/h2&gt;&#xA;&lt;p&gt;I think Omarchy Linux is good, as a dotfile. I think Omarchy does not deserve being a distro but it&amp;rsquo;s a good starting point for dotfiles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;should-we-give-ai-access-to-our-computers&#34;&gt;Should we give AI access to our computers?&lt;/h2&gt;&#xA;&lt;p&gt;I think yes but if it&amp;rsquo;s running locally. Giving full access to your system to a cloud AI means giving full access to your system to a cloud. If that cloud targets you, they can do everything with your computer.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
