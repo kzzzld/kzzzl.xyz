@@ -1,4 +1,33 @@
-baseURL = 'https://kzzzl.xyz'
+baseURL = "https://kzzzl.xyz"
 theme = "macchiato"
-locale = 'en-us'
-title = 'kzzzl'
+locale = "en-us"
+title = "kzzzl"
+
+[params]
+  author = "kzzzl"
+  description = "My notes and articles about things I'm interested."
+  wideLayout = false
+
+  [params.social]
+    github = "https://git.kzzzl.xyz/kzzzl"
+    mastodon = "https://fedi.kzzzl.xyz/kzzzl"
+    monkeytype = "https://monkeytype.com/profile/kzzzl"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  # [[menu.main]]
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 4
+
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 1
